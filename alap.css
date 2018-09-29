@@ -1,0 +1,19 @@
+html{
+    text-align: justify;
+}
+
+
+
+#jobb{
+    float:right;  
+    margin-right: 80px;
+}
+
+#kozep{
+    margin-right: 600px;
+    float: right;
+}
+
+#bal{
+    float: left;
+}
